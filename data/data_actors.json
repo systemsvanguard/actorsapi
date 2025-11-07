@@ -1,0 +1,179 @@
+{
+  "actors": [
+    {
+      "id": 1,
+      "first_name": "Scarlett",
+      "last_name": "Johansson",
+      "email": "Scarlett@MarvelStudios.com",
+      "phone": "905-426-2786",
+      "picture": "https://actorsapi.ryanhunter.ca/images/scarlett_johansson.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Scarlett_Johansson",
+      "major_movie": "Jojo Rabbit"
+    },
+
+    {
+      "id": 2,
+      "first_name": "Leonardo",
+      "last_name": "DiCaprio",
+      "email": "Leo@leonardodicaprio.org",
+      "phone": "905-357-2782",
+      "picture": "https://actorsapi.ryanhunter.ca/images/leonardo_dicaprio.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Leonardo_DiCaprio",
+      "major_movie": "Inception"
+    },
+
+    {
+      "id": 3,
+      "first_name": "Jennifer",
+      "last_name": "Lawrence",
+      "email": "Jennifer@HungerGames.org",
+      "phone": "416-426-2774",
+      "picture": "https://actorsapi.ryanhunter.ca/images/jennifer_lawrence.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Jennifer_Lawrence",
+      "major_movie": "Hunger Games"
+    },
+
+    {
+      "id": 4,
+      "first_name": "Robert",
+      "last_name": "Downey Jr",
+      "email": "robDownney@MarvelStudios.com",
+      "phone": "647-359-8472",
+      "picture": "https://actorsapi.ryanhunter.ca/images/robert_downey_jr.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Robert_Downey_Jr.",
+      "major_movie": "Iron Man"
+    },
+
+    {
+      "id": 5,
+      "first_name": "Margot",
+      "last_name": "Robbie",
+      "email": "margot@margotrobbie.org",
+      "phone": "416-435-2755",
+      "picture": "https://actorsapi.ryanhunter.ca/images/margot_robbie.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Margot_Robbie",
+      "major_movie": "Barbie"
+    },
+
+    {
+      "id": 6,
+      "first_name": "Denzel",
+      "last_name": "Washington",
+      "email": "denzel@denzelwashington.org",
+      "phone": "905-422-2755",
+      "picture": "https://actorsapi.ryanhunter.ca/images/denzel_washington.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Denzel_Washington",
+      "major_movie": "Tragedy of Macbeth"
+    },
+    {
+      "id": 7,
+      "first_name": "Emma",
+      "last_name": "Stone",
+      "email": "Emma@EmmaStone.org",
+      "phone": "416-555-5755",
+      "picture": "https://actorsapi.ryanhunter.ca/images/emma_stone.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Emma_Stone",
+      "major_movie": "La La Land"
+    },
+    {
+      "id": 8,
+      "first_name": "Christian",
+      "last_name": "Bale",
+      "email": "chris@ChristianBale.org",
+      "phone": "416-435-2221",
+      "picture": "https://actorsapi.ryanhunter.ca/images/christian_bale.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Christian_Bale",
+      "major_movie": "The Dark Knigh"
+    },
+    {
+      "id": 9,
+      "first_name": "Meryl",
+      "last_name": "Streep",
+      "email": "Meryl@MerylStreep.org",
+      "phone": "647-435-6587",
+      "picture": "https://actorsapi.ryanhunter.ca/images/meryl_streep.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Meryl_Streep",
+      "major_movie": "The Iron Lady"
+    },
+    {
+      "id": 10,
+      "first_name": "Joaquin",
+      "last_name": "Phoenix",
+      "email": "Joaquin@JoaquinPhoenix.org",
+      "phone": "905-274-2756",
+      "picture": "https://actorsapi.ryanhunter.ca/images/joaquin_phoenix.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Joaquin_Phoenix",
+      "major_movie": "Joker"
+    },
+    {
+      "id": 11,
+      "first_name": "Frances",
+      "last_name": "McDormand",
+      "email": "Frances@FrancesMcDormand.org",
+      "phone": "647-435-6751",
+      "picture": "https://actorsapi.ryanhunter.ca/images/frances_mcdormand.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Frances_McDormand",
+      "major_movie": "Tragedy of Macbeth"
+    },
+    {
+      "id": 12,
+      "first_name": "Cate",
+      "last_name": "Blanchett",
+      "email": "cate@Blanchett.org",
+      "phone": "905-645-2758",
+      "picture": "https://actorsapi.ryanhunter.ca/images/cate_blanchett.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Cate_Blanchett",
+      "major_movie": "The Lord of the Rings"
+    },
+    {
+      "id": 13,
+      "first_name": "Tom",
+      "last_name": "Hardy",
+      "email": "tom@TomHardy.org",
+      "phone": "416-435-2755",
+      "picture": "https://actorsapi.ryanhunter.ca/images/tom_hardy.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Tom_Hardy",
+      "major_movie": "Mad Max: Fury Road"
+    },
+    {
+      "id": 14,
+      "first_name": "Chris",
+      "last_name": "Hemsworth",
+      "email": "chris@Hemsworth.org",
+      "phone": "647-435-7774",
+      "picture": "https://actorsapi.ryanhunter.ca/images/chris_hemsworth.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Chris_Hemsworth",
+      "major_movie": "Thor"
+    },
+    {
+      "id": 15,
+      "first_name": "Chris",
+      "last_name": "Evans",
+      "email": "chris@ChrisEvans.com",
+      "phone": "905-222-2755",
+      "picture": "https://actorsapi.ryanhunter.ca/images/chris_evans.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Chris_Evans_(actor)",
+      "major_movie": "Captain America"
+    },
+    {
+      "id": 16,
+      "first_name": "Ryan Gosling",
+      "last_name": "Ryan Gosling",
+      "email": "ryan@RyanGosling.org",
+      "phone": "416-435-4795",
+      "picture": "https://actorsapi.ryanhunter.ca/images/ryan_gosling.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Ryan_Gosling",
+      "major_movie": "La La Land"
+    },
+    {
+      "id": 17,
+      "first_name": "Bradley",
+      "last_name": "Cooper",
+      "email": "brad@BradleyCooper.com",
+      "phone": "647-435-6472",
+      "picture": "https://actorsapi.ryanhunter.ca/images/bradley_cooper.webp", 
+      "wiki": "https://en.wikipedia.org/wiki/Bradley_Cooper",
+      "major_movie": "American Sniper"
+    }
+  ]
+} 
